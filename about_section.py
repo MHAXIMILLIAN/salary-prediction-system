@@ -193,6 +193,6 @@ with tab4:
 st.markdown("""
 <div class="result-container">
     <h4>🚀 Salary Prediction System v2.0</h4>
-    <p>Built with ❤️ using Streamlit | Powered by Machine Learning | © 2024</p>
+    <p>Built with ❤️ using Streamlit | Powered by Machine Learning | © 2025</p>
 </div>
 """, unsafe_allow_html=True)
