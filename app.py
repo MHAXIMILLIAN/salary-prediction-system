@@ -328,6 +328,10 @@ else:
             color: #000000 !important;
             border: 1px solid #cccccc !important;
         }
+        /* Input labels in light mode */
+        .stTextInput label, .stNumberInput label, .stSelectbox label, .stTextArea label {
+            color: #000000 !important;
+        }
         .stSidebar button {
             background-color: #e0e0e0 !important;
             color: #000000 !important;
@@ -1334,7 +1338,7 @@ with tab4:
 st.markdown("""
 <div class="result-container">
     <h4>🚀 Salary Prediction System v2.0</h4>
-    <p>Built with ❤️ using Streamlit | Powered by Machine Learning | © 2024</p>
+    <p>Built with ❤️ using Streamlit | Powered by Machine Learning | © 2025</p>
 </div>
 """, unsafe_allow_html=True)
 # Footer
